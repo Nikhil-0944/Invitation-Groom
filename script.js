@@ -4,7 +4,7 @@
 
 // Change this to the real engagement date/time.
 // Format: YYYY-MM-DDTHH:MM:SS
-const EVENT_DATE = "2026-09-18T19:00:00";
+const EVENT_DATE = "2026-09-19T19:00:00";
 
 // Optional: add your Google Maps link here.
 const MAP_URL = "https://maps.app.goo.gl/ndDRdejCdWqgdTgTA?g_st=iw";
